@@ -7,6 +7,13 @@ Sys-Admin is a script written on bash to do basic System Adminsitrator job. It h
 
 ### ScreenShots
     ![Sys-Admin](https://i.ibb.co/qkgJ24Q/Screenshot-at-2021-08-16-22-32-48.png "sneak peak of Sys-Admin")
+    <h1 align="center">
+  <br>
+  <a href="https://github.com/prajwal-basnet1/Sys-Admin"><img src="https://i.ibb.co/qkgJ24Q/Screenshot-at-2021-08-16-22-32-48.png" alt="Photon"></a>
+  <br>
+  Sys-Admin
+  <br>
+</h1>
 ### Compatibility:
 Sys-Admin will run on anything that has a bash shell.
 
