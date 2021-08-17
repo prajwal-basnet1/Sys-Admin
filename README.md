@@ -6,8 +6,6 @@ Sys-Admin is a script written on bash to do basic System Adminsitrator job. It h
  - features like compression,ping sweep.
 
 ### ScreenShots
-    ![Sys-Admin](https://i.ibb.co/qkgJ24Q/Screenshot-at-2021-08-16-22-32-48.png "sneak peak of Sys-Admin")
-    <h1 align="center">
   <br>
   <a href="https://github.com/prajwal-basnet1/Sys-Admin"><img src="https://i.ibb.co/qkgJ24Q/Screenshot-at-2021-08-16-22-32-48.png" alt="Photon"></a>
   <br>
@@ -24,6 +22,10 @@ Shell:Bash
 ### Installation
 ```
 git clone https://github.com/prajwal-basnet1/Sys-Admin
+
+chmod +x Sys-Admin
+
+./Sys-Admin
 ```
 
 ### Contribution:
