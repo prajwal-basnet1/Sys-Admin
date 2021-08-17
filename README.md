@@ -12,7 +12,7 @@ Sys-Admin is a script written on bash to do basic System Adminsitrator job. It h
   Sys-Admin
   <br>
 </h1>
-### Compatibility:
+### Compatibility
 
 Sys-Admin will run on anything that has a bash shell.
 
