@@ -1,5 +1,4 @@
 #!/bin/bash
-IFS=$'\n'
 
 installation(){
 	application="tar rar unrar 7z unrar"
@@ -24,6 +23,7 @@ done
 }
 installation
 
+IFS=$'\n'
 center() {
   termwidth="$(tput cols)"
   padding="$(printf '%0.1s' " "{1..500})"
